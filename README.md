@@ -1,4 +1,18 @@
+# Problema a ser Resolvido
+
+A empresa XYZ vende roupas online, mas também tem em-catálogo sessões de estilo e conselhos de vestuário em lojas. Os clientes entram na loja, têm sessões/reuniões com um estilista pessoal, depois podem ir para casa e pedir, pelo aplicativo móvel ou website, as roupas que desejam.
+
+A empresa está tentando decidir se deve concentrar seus esforços em seu aplicativo de experiência móvel ou em seu website. Eles contrataram você na condição de cientista de dados contratado para ajudá-los a descobrir isso! Vamos começar!"
+
+Este trecho descreve o cenário de negócios e o problema que o mini-projeto pretende abordar. Se você precisar de mais informações ou detalhes adicionais do documento, por favor, informe.
+
 # Recapitulação das Análises
+
+### Estatísticas Descritivas
+
+![](https://github.com/loliveirads/analise_site/blob/main/imagens/5-Infogr%C3%A1fico%20L%C3%A2mpada.png)
+
+
 **📈 Correlação com o Gasto Total:**
 
 - O tempo total logado no aplicativo tem uma correlação moderada com o valor total gasto.
