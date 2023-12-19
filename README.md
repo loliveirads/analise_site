@@ -4,7 +4,7 @@ A empresa XYZ vende roupas online, mas também tem em-catálogo sessões de esti
 
 A empresa está tentando decidir se deve concentrar seus esforços em seu aplicativo de experiência móvel ou em seu website. Eles contrataram você na condição de cientista de dados contratado para ajudá-los a descobrir isso! Vamos começar!"
 
-Este trecho descreve o cenário de negócios e o problema que o mini-projeto pretende abordar. Se você precisar de mais informações ou detalhes adicionais do documento, por favor, informe.
+
 
 # Recapitulação das Análises
 
